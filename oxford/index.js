@@ -11,7 +11,7 @@ function scrollFunction() {
   ) {
     document.querySelector("#navbar").style.height = "100px";
     document.querySelector("#dows_button").style.display =
-      "none"; /* Scroll yapıldığında navbar boyutunu 100px yap */
+      "none"; /* Scroll yapıldığında navbari 100px et */
     document.querySelector("#staff").style.marginTop = "-40px";
     document.querySelector(".li_div").style.marginTop = "-21px";
     document.querySelector(".nav_img").style.display = "none";
